@@ -1,0 +1,11 @@
+[user]
+  name = auliviet
+[core]
+  editor = vim
+[color]
+  branch = auto
+  diff = auto
+  interactive = auto
+  status = auto
+[init]
+  defaultBranch = main
