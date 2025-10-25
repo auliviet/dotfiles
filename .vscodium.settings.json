@@ -1,0 +1,64 @@
+{
+  "workbench.enableExperiments": false,
+  "workbench.settings.enableNaturalLanguageSearch": false,
+  "update.mode": "start",
+  "update.showReleaseNotes": false,
+  "python.pythonPath": "/usr/local/bin/python3",
+  "editor.lightbulb.enabled": "off",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.minimap.enabled": false,
+  "debug.console.collapseIdenticalLines": false,
+  "html.format.indentInnerHtml": true,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "editor.codeLens": false,
+  "editor.hover.above": false,
+  "[css]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jinja-html]": {
+    "editor.tabSize": 2
+  },
+  "files.associations": {
+    "*.html": "html",
+    "*.css": "css",
+    "*.webc": "html",
+    "*.mdx": "mdx"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "git.ignoreMissingGitWarning": true,
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "emmet.syntaxProfiles": {
+    "html": {
+      "inline_break": 1
+    }
+  },
+  "emmet.preferences": {},
+  "eslint.rules.customizations": [],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.maxTokenizationLineLength": 2500
+  },
+  "[json]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace"
+  },
+  "editor.tabSize": 2,
+  "editor.lineNumbers": "relative",
+  "[typescript]": {},
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "eslint.runtime": "node",
+  "eslint.useFlatConfig": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "css.lint.validProperties": ["composes"],
+  "javascript.preferGoToSourceDefinition": true,
+  "typescript.tsserver.nodePath": "node",
+  "eslint.nodePath": "node"
+}
