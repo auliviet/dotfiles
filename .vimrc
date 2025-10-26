@@ -7,7 +7,8 @@ set clipboard=unnamed   " allow yy, etc. to interact with OS X clipboard
 
 " Visual cues
 set cursorline          " highlight the current line
-set relativenumber      " show line numbers
+set relativenumber      " show line relative number
+set number              " show current line absolute number
 set showmatch           " show matching brackets
 set showcmd             " show selection metadata
 set showmode            " show INSERT, VISUAL, etc. mode
