@@ -56,6 +56,10 @@ colored-man-pages
 zsh-autosuggestions
 )
 
+# Load zsh-completions before sourcing oh-my-zsh to improve load time
+fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
+autoload -U compinit && compinit
+
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
