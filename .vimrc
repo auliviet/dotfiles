@@ -4,6 +4,7 @@ autocmd BufRead,BufNewFile *.md set filetype=markdown
 
 " Clipboard
 set clipboard=unnamed   " allow yy, etc. to interact with OS X clipboard
+set paste               " disable auto-indent when pasting
 
 " Visual cues
 set cursorline          " highlight the current line
