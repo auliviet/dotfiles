@@ -26,8 +26,10 @@ Uses:
 Shell.
 
 Uses:
+- fzf
 - Oh-my-zsh
 - zsh-autosuggestions
+- zsh-completions
 
 
 ## Getting started
