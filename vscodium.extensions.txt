@@ -1,0 +1,8 @@
+catppuccin.catppuccin-vsc
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+ferrielmelarpis.vscode-css-modules-syntax-highlighter
+jacobcassidy.css-nesting-syntax-highlighting
+ms-python.python
+unifiedjs.vscode-mdx
+vscodevim.vim
