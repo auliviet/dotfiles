@@ -1,8 +1,10 @@
 catppuccin.catppuccin-vsc
+csstools.postcss
 dbaeumer.vscode-eslint
 esbenp.prettier-vscode
 ferrielmelarpis.vscode-css-modules-syntax-highlighter
-jacobcassidy.css-nesting-syntax-highlighting
+ms-python.debugpy
 ms-python.python
+ms-python.vscode-python-envs
 unifiedjs.vscode-mdx
 vscodevim.vim
