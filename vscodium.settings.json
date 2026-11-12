@@ -60,6 +60,6 @@
   "css.lint.validProperties": ["composes"],
   "javascript.preferGoToSourceDefinition": true,
   "typescript.tsserver.nodePath": "node",
-  "eslint.nodePath": "node"
-  "workbench.colorTheme": "Catppuccin Mocha",
+  "eslint.nodePath": "node",
+  "workbench.colorTheme": "Catppuccin Mocha"
 }

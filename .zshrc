@@ -51,8 +51,10 @@ ZSH_THEME="fwalch"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
+fzf
 git
 colored-man-pages
+zsh-completions
 zsh-autosuggestions
 )
 
