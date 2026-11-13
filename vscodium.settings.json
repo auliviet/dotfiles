@@ -16,39 +16,39 @@
   "editor.hover.above": false,
   "[css]": {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
   },
   "[jinja-html]": {
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
   },
   "files.associations": {
     "*.html": "html",
     "*.css": "css",
     "*.webc": "html",
-    "*.mdx": "mdx"
+    "*.mdx": "mdx",
   },
   "diffEditor.ignoreTrimWhitespace": false,
   "git.ignoreMissingGitWarning": true,
   "emmet.includeLanguages": {
-    "postcss": "css"
+    "postcss": "css",
   },
   "emmet.syntaxProfiles": {
     "html": {
-      "inline_break": 1
-    }
+      "inline_break": 1,
+    },
   },
   "emmet.preferences": {},
   "eslint.rules.customizations": [],
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[javascript]": {
-    "editor.maxTokenizationLineLength": 2500
+    "editor.maxTokenizationLineLength": 2500,
   },
   "[json]": {
     "editor.quickSuggestions": {
-      "strings": true
+      "strings": true,
     },
-    "editor.suggest.insertMode": "replace"
+    "editor.suggest.insertMode": "replace",
   },
   "editor.tabSize": 2,
   "editor.lineNumbers": "relative",
@@ -61,5 +61,7 @@
   "javascript.preferGoToSourceDefinition": true,
   "typescript.tsserver.nodePath": "node",
   "eslint.nodePath": "node",
-  "workbench.colorTheme": "Catppuccin Mocha"
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+  "breadcrumbs.icons": false,
 }
